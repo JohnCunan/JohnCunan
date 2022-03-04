@@ -156,7 +156,7 @@
 
 <p>
   &nbsp;<img
-    align="right"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=johncunan&show_icons=true&locale=en"
     alt="johncunan"
   />
