@@ -130,7 +130,7 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"
       alt="mysql"
       width="40"
       height="40"
@@ -138,7 +138,7 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/246px-Photoshop_CC_icon.png"
       alt="photoshop"
       width="40"
       height="40"
