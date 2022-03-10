@@ -8,7 +8,7 @@
 />
 
 - 🔭 I’m currently working on **a capstone project** 
-- 🌱 I’m currently learning **.NET Core & Pixel Arts** 
+- 🌱 I’m currently learning **.NET Core & Python** 
 - 👯 I’m looking to collaborate on **any open source projects** 
 - 💬 Ask me about **C# and Programming stuffs** 
 - 📫 How to reach me **johncunan07@gmail.com** 
