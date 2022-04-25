@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nando</h1>
+<h1 align="center">Hi 👋, I'm John Cunan</h1>
 <h3 align="center">A passionate .NET developer and a college student</h3>
 <img
   align="right"
