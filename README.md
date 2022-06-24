@@ -147,6 +147,14 @@
 </p>
 
 
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=johncunan&show_icons=true&locale=en&layout=compact"
+    alt="johncunan"
+  />
+</p>
+<p>
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=johncunan&show_icons=true&locale=en"
