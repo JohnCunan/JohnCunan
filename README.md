@@ -24,7 +24,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="" target="blank"
+  <a href="" target="https://www.linkedin.com/in/john-cunan-b46793228/"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
@@ -32,7 +32,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="" target="blank"
+  <a href="" target="https://www.facebook.com/John.Cunan.E07"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -40,7 +40,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="" target="blank"
+  <a href="" target="https://www.hackerrank.com/johncunan07"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
