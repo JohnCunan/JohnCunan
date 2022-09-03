@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/john-cunan-b46793228/" target="blank"
+  <a href="https://www.linkedin.com/in/john-cunan-b46793228/" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -24,7 +24,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://stackoverflow.com/users/15448938/sloppy" target="blank"
+  <a href="https://stackoverflow.com/users/15448938/sloppy" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
@@ -32,7 +32,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.facebook.com/John.Cunan.E07" target="blank"
+  <a href="https://www.facebook.com/John.Cunan.E07" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -40,7 +40,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/johncunan07" target="blank"
+  <a href="https://www.hackerrank.com/johncunan07" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
