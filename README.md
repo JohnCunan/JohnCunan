@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Cunan</h1>
-<h3 align="center">A passionate .NET developer and a college student</h3>
+<h3 align="center">A passionate developer and a college student</h3>
 <img
   align="right"
   alt="rightimg"
@@ -8,7 +8,7 @@
 />
 
 - 🔭 I’m currently working on **a capstone project** 
-- 🌱 I’m currently learning **.NET Core & Python** 
+- 🌱 I’m currently learning **Front End Development & Python** 
 - 👯 I’m looking to collaborate on **any open source projects** 
 - 💬 Ask me about **C# and Programming stuffs** 
 - 📫 How to reach me **johncunan07@gmail.com** 
