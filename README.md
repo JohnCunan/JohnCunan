@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Cunan</h1>
-<h3 align="center">A passionate developer and a college student</h3>
+<h3 align="center">An aspiring front-end developer and a college student</h3>
 <img
   align="right"
   alt="rightimg"
