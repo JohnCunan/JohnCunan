@@ -134,7 +134,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://www.svgrepo.com/show/331488/mongodb.svg"
       alt="mongodb"
       width="40"
       height="40"
