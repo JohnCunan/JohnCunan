@@ -54,7 +54,7 @@
       src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"
       alt="johncunan07"
       height="30"
-      width="40"
+      width="30"
   /></a>
 </p>
 
@@ -64,7 +64,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
-      width="20"
+      width="40"
       height="40"
     />
   </a>
