@@ -13,7 +13,7 @@
 - 💬 Ask me about **C# and Programming stuffs** 
 - 📫 How to reach me **johncunan07@gmail.com** 
 - ⚡ Fun fact **I love graphic designing**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/john-cunan-b46793228/" target="_blank"
@@ -182,7 +182,7 @@
     alt="johncunan"
   />
 </p>
-<br>
+
 <p>
   &nbsp;<img
     align="center"
@@ -190,6 +190,7 @@
     alt="johncunan"
   />
 </p>
+
 <p>
   <img
     align="center"
