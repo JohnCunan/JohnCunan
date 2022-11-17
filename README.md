@@ -184,17 +184,18 @@
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=johncunan&show_icons=true&locale=en"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=johncunan&"
     alt="johncunan"
   />
 </p>
 
+
 <p>
-  <img
+  &nbsp;<img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=johncunan&"
+    src="https://github-readme-stats.vercel.app/api?username=johncunan&show_icons=true&locale=en"
     alt="johncunan"
   />
 </p>
