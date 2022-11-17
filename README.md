@@ -182,6 +182,7 @@
     alt="johncunan"
   />
 </p>
+<br>
 <p>
   &nbsp;<img
     align="center"
@@ -189,7 +190,6 @@
     alt="johncunan"
   />
 </p>
-
 <p>
   <img
     align="center"
