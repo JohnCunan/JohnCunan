@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on **a capstone project** <br>🌱 I’m currently learning **ReactJS** <br>👯 I’m looking to collaborate on **any open source projects** <br>💬 Ask me about **C# and Programming stuffs** <br>📫 How to reach me **johncunan07@gmail.com** <br>⚡ Fun fact **I love graphic designing**
+🔭 I’m currently working on **a capstone project** 
+<br>🌱 I’m currently learning **ReactJS** 
+<br>👯 I’m looking to collaborate on **any open source projects** 
+<br>💬 Ask me about **C# and Programming stuffs** 
+<br>📫 How to reach me **johncunan07@gmail.com** 
+<br>⚡ Fun fact **I love graphic designing**
 
 
 ## 🌐 Socials:
