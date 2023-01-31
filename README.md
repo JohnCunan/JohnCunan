@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h3 align="center"> 💫 About Me: </h3>
+<hr />
 🔭 I’m currently working on **a capstone project** 
 <br>🌱 I’m currently learning **ReactJS** 
 <br>👯 I’m looking to collaborate on **any open source projects** 
@@ -6,11 +7,14 @@
 <br>📫 How to reach me **johncunan07@gmail.com** 
 <br>⚡ Fun fact **I love graphic designing**
 
+<h3 align="center">🌐 Socials:</h3>
+<hr />
 
-## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/John.Cunan.E07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-cunan-b46793228) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Rikonama) 
 
-# 💻 Tech Stack:
+<h3 align="center">💻 Tech Stack:</h3>
+<hr />
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -25,15 +29,27 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
+
+
+
+<h3 align="center">📊 GitHub Stats:</h3>
+<hr />
+
 ![](https://github-readme-stats.vercel.app/api?username=JohnCunan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JohnCunan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCunan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<hr />
+
 ![](https://github-profile-trophy.vercel.app/?username=JohnCunan&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<hr />
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
