@@ -25,3 +25,10 @@
 [![](https://visitcount.itsvg.in/api?id=JohnCunan&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/john-cunan-b46793228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-cunan-b46793228" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15448938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15448938" height="30" width="40" /></a>
+<a href="https://fb.com/john.cunan.e07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john.cunan.e07" height="30" width="40" /></a>
+<a href="https://discord.gg/f.nando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f.nando" height="30" width="40" /></a>
+</p>
